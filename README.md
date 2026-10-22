@@ -11,7 +11,7 @@ An end-to-end DevSecOps project demonstrating automated CI/CD, security scanning
   <img
     src="screenshots/End-to-End DevSecOps CI_CD Pipeline.png"
     alt="GitHub Actions DevSecOps CI/CD Pipeline Architecture"
-    width="650"
+    width="700"
   />
 </p>
 
