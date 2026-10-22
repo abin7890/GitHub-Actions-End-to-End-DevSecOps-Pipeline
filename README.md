@@ -108,7 +108,7 @@ The pipeline incorporates security and quality checks into the application deliv
   <img
     src="screenshots/pipeline.jpeg"
     alt="GitHub Actions CI/CD Pipeline"
-    width="500"
+    width="350"
   />
 </p>
 
