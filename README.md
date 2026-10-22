@@ -129,7 +129,7 @@ The pipeline incorporates security and quality checks into the application deliv
   <img
     src="screenshots/app-ui.jpeg"
     alt="Application UI Deployed on AWS EKS"
-    width="850"
+    width="450"
   />
 </p>
 
