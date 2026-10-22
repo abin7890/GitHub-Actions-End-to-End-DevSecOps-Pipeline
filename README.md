@@ -100,11 +100,37 @@ The pipeline incorporates security and quality checks into the application deliv
 
 ## Project Screenshots
 
+<!-- GitHub Actions CI/CD Pipeline -->
+
+<h2 align="center">🚀 GitHub Actions CI/CD Pipeline</h2>
+
+<p align="center">
+  <img
+    src="screenshots/pipeline.jpeg"
+    alt="GitHub Actions CI/CD Pipeline"
+    width="700"
+  />
+</p>
+
+<p align="center">
+  <i>
+    Automated DevSecOps CI/CD pipeline using GitHub Actions
+    for building, testing, security scanning,
+    Docker image creation, and deployment to AWS EKS.
+  </i>
+</p>
+
+
 ### Architecture Diagram
 
-![Architecture](screenshots/architecture.png)
+<p align="center">
+  <img
+    src="screenshots/End-to-End DevSecOps CI_CD Pipeline.png"
+    alt="GitHub Actions DevSecOps CI/CD Pipeline Architecture"
+    width="700"
+  />
+</p>
 
-Additional screenshots of the CI/CD workflow, security scanning results, and deployed application can be added here.
 
 ## Key Learning Outcomes
 
