@@ -7,7 +7,7 @@ An end-to-end DevSecOps project demonstrating automated CI/CD, security scanning
 
 ## Project Architecture
 
-![DevSecOps Pipeline Architecture](screenshots/architecture.png)
+![DevSecOps Pipeline Architecture](screenshots/End-to-End DevSecOps CI_CD Pipeline.png)
 
 ## Project Overview
 
