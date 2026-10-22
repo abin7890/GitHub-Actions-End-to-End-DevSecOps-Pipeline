@@ -5,9 +5,16 @@ End-to-end DevSecOps CI/CD pipeline using GitHub Actions, Terraform, Docker, Son
 
 An end-to-end DevSecOps project demonstrating automated CI/CD, security scanning, code quality analysis, Docker containerization, and Kubernetes deployment on Amazon EKS using GitHub Actions and Terraform.
 
-## Project Architecture
+<h2 align="center">🏗️ Project Architecture</h2>
 
-![DevSecOps Pipeline Architecture](screenshots/End-to-End DevSecOps CI_CD Pipeline.png)
+<p align="center">
+  <img
+    src="screenshots/End-to-End DevSecOps CI_CD Pipeline.png"
+    alt="GitHub Actions DevSecOps CI/CD Pipeline Architecture"
+    width="550"
+  />
+</p>
+
 
 ## Project Overview
 
