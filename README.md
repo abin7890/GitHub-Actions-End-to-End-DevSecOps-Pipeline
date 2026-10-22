@@ -108,7 +108,7 @@ The pipeline incorporates security and quality checks into the application deliv
   <img
     src="screenshots/pipeline.jpeg"
     alt="GitHub Actions CI/CD Pipeline"
-    width="700"
+    width="600"
   />
 </p>
 
@@ -127,7 +127,7 @@ The pipeline incorporates security and quality checks into the application deliv
   <img
     src="screenshots/End-to-End DevSecOps CI_CD Pipeline.png"
     alt="GitHub Actions DevSecOps CI/CD Pipeline Architecture"
-    width="700"
+    width="600"
   />
 </p>
 
