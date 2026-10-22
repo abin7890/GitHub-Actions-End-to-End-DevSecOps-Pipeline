@@ -121,6 +121,27 @@ The pipeline incorporates security and quality checks into the application deliv
 </p>
 
 
+<!-- Deployed Application UI -->
+
+<h2 align="center">🌐 Deployed Application UI</h2>
+
+<p align="center">
+  <img
+    src="screenshots/app-ui.jpeg"
+    alt="Application UI Deployed on AWS EKS"
+    width="850"
+  />
+</p>
+
+<p align="center">
+  <i>
+    Application successfully deployed on Amazon EKS
+    using an automated GitHub Actions DevSecOps CI/CD pipeline.
+  </i>
+</p>
+
+
+
 ### Architecture Diagram
 
 <p align="center">
